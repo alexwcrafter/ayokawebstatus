@@ -41,7 +41,7 @@ params:
       description: The web frontend for Ayokas Stuff.
       category: Uncategorized
       link: https://ayokaacr.net/
-    - name: Icecast 2 Server
+    - name: AyokaRadio
       category: Uncategorized
     - name: Pastebin
       category: Uncategorized
