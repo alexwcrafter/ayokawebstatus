@@ -5,7 +5,7 @@ date: 2022-11-11T09:45:59.427Z
 resolved: false
 draft: false
 informational: true
-pin: false
+pin: true
 resolvedWhen: 2022-11-11T09:45:59.458Z
 affected:
   - Jenkins
