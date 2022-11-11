@@ -43,6 +43,7 @@ params:
       link: https://ayokaacr.net/
     - name: AyokaRadio
       category: Uncategorized
+      link: https://radio.ayokaacr.net/
     - name: Pastebin
       category: Uncategorized
     - name: Jenkins
