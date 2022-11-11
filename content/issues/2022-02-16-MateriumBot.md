@@ -1,15 +1,14 @@
 ---
-title: Materium Bot not online 
+section: issue
+title: Materium Bot not online
 date: 2022-02-16 08:00:00
 resolved: true
-resolvedWhen: 2022-02-16 09:37:30
-# Possible severity levels: down, disrupted, notice
-severity: down
-informational: true
+informational: false
 pin: false
+resolvedWhen: 2022-02-16 09:37:30
 affected:
-  - Project Materium Bot 
-section: issue
+  - Project Materium Bot
+severity: down
 ---
 
 *Resolved* - The bot is now online
