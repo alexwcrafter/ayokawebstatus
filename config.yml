@@ -59,6 +59,14 @@ params:
     - name: droid-ng Bot
       category: Telegram Stuff
       link: https://t.me/droid_ng
+    - name: Netdata
+      category: Uncategorized
+    - name: Mango (Manga Server[for a friend])
+      category: Uncategorized
+    - name: Image Upload
+      category: Uncategorized
+      description: This is an Image Uploading service provided by AyokaACR only
+        available for specific Users
   dateFormat: January 2, 2006 at 15:04 UTC
   brand: "#0a0c0f"
   enableLastMod: true
