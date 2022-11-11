@@ -5,7 +5,7 @@ date: 2022-11-11T09:41:28.197Z
 resolved: false
 draft: false
 informational: true
-pin: false
+pin: true
 resolvedWhen: 2022-11-11T09:41:25.556Z
 affected:
   - Telegram Uno Bot
