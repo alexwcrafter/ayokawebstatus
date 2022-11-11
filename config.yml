@@ -56,9 +56,9 @@ params:
     - name: Telegram Uno Bot
       category: Telegram Stuff
       link: https://t.me/AyokaUnoBot
-    - name: Project Materium Bot
+    - name: droid-ng Bot
       category: Telegram Stuff
-      link: https://t.me/ProjectMaterium
+      link: https://t.me/droid_ng
   dateFormat: January 2, 2006 at 15:04 UTC
   brand: "#0a0c0f"
   enableLastMod: true
