@@ -46,12 +46,16 @@ params:
       link: https://radio.ayokaacr.net/
     - name: Pastebin
       category: Uncategorized
+      link: https://paste.ayokaacr.net/
     - name: Jenkins
       category: Uncategorized
+      link: https://ci.ayokaacr.net
     - name: Download Page
       category: Uncategorized
+      link: https://dl.ayokaacr.net
     - name: Telegram Uno Bot
       category: Telegram Stuff
+      link: https://t.me/AyokaUnoBot
     - name: Project Materium Bot
       category: Telegram Stuff
       link: https://t.me/ProjectMaterium
