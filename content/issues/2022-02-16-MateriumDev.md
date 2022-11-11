@@ -7,7 +7,7 @@ informational: true
 pin: false
 resolvedWhen: 2022-11-11T09:45:21.540Z
 affected:
-  - Project Materium Bot
+  - droid-ng Bot
 severity: notice
 ---
 
