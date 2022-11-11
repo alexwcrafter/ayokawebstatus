@@ -3,7 +3,7 @@ section: issue
 title: Materium Bot not online
 date: 2022-02-16 08:00:00
 resolved: true
-informational: false
+informational: true
 pin: false
 resolvedWhen: 2022-02-16 09:37:30
 affected:
