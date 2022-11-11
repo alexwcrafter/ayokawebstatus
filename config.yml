@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://status.ayokaacr.net/
+baseURL: https://master--frolicking-khapse-3e0ac1.netlify.app/
 
 # For features like Last modified, you
 # need to use a Git repository. If you
