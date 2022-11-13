@@ -53,12 +53,6 @@ params:
     - name: Download Page
       category: Uncategorized
       link: https://dl.ayokaacr.net
-    - name: Telegram Uno Bot
-      category: Telegram Stuff
-      link: https://t.me/AyokaUnoBot
-    - name: droid-ng Bot
-      category: Telegram Stuff
-      link: https://t.me/droid_ng
     - name: Netdata
       category: Uncategorized
       link: https://data.ayokaacr.net
@@ -69,6 +63,15 @@ params:
       description: This is an Image Uploading service provided by AyokaACR only
         available for specific Users
       link: https://img.ayokaacr.net
+    - name: Telegram Uno Bot
+      category: Telegram Stuff
+      link: https://t.me/AyokaUnoBot
+    - name: droid-ng Bot
+      category: Telegram Stuff
+      link: https://t.me/droid_ng
+    - name: Donowall Bot
+      category: Telegram Stuff
+      description: "Actually quite unnecessary "
   dateFormat: January 2, 2006 at 15:04 UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -91,6 +94,7 @@ params:
     - name: Telegram Stuff
       description: Just some unimportant stuff
       closed: true
+      untitled: false
   description: Hey there and welcome to AyokaACR's Statuspage. You can check those
     statuses 24/7 thanks to GitLab hosting it for us.
   enableCustomHTML: true
