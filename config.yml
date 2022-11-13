@@ -96,6 +96,6 @@ params:
       closed: true
       untitled: false
   description: Hey there and welcome to AyokaACR's Statuspage. You can check those
-    statuses 24/7 thanks to GitLab hosting it for us.
+    statuses 24/7 thanks to Netlify hosting it for us.
   enableCustomHTML: true
   useLargeHeaderDesign: false
