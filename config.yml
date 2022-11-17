@@ -63,6 +63,9 @@ params:
       description: This is an Image Uploading service provided by AyokaACR only
         available for specific Users
       link: https://img.ayokaacr.net
+    - name: Shinbayo
+      category: Uncategorized
+      description: My first public Discord Bot, developed by fully myself
     - name: Telegram Uno Bot
       category: Telegram Stuff
       link: https://t.me/AyokaUnoBot
