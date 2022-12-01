@@ -19,7 +19,7 @@ affected:
   - Telegram Uno Bot
   - droid-ng Bot
   - Donowall Bot
-severity: notice
+severity: disrupted
 ---
 *Reason* - Maintenance on our network equipment in our data centers in Düsseldorf, Wuppertal and Cologne.
 
