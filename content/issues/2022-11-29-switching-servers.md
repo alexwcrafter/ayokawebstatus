@@ -15,6 +15,8 @@ affected:
   - Shinbayo
 severity: down
 ---
+*Update* - Manga Server is now online again.
+
 *Update* - Pastebin is now online again.
 
 *Update* - AyokaRadio is now online again. All Services are slowly coming back online
