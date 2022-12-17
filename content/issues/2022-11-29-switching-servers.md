@@ -2,11 +2,11 @@
 section: issue
 title: Switching Servers
 date: 2022-11-29T13:26:53.681Z
-resolved: false
+resolved: true
 draft: false
 informational: true
-pin: true
-resolvedWhen: ""
+pin: false
+resolvedWhen: 2022-12-17T15:11:17.533Z
 affected:
   - AyokaRadio
   - Pastebin
@@ -15,6 +15,8 @@ affected:
   - Shinbayo
 severity: down
 ---
+*Update* - We’ll continue to try to get the image uploading service online again. Other than that all services are back online
+
 *Update* - Manga Server is now online again.
 
 *Update* - Pastebin is now online again.
