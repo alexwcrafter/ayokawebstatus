@@ -4,7 +4,7 @@ title: Planned Maintenance
 date: 2022-12-23T10:30:53.646Z
 resolved: true
 draft: false
-informational: true
+informational: false
 pin: false
 resolvedWhen: 2022-12-23T11:15:53.703Z
 affected:
