@@ -2,11 +2,11 @@
 section: issue
 title: Planned Maintenance
 date: 2023-01-12T08:35:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: true
-resolvedWhen: 2023-01-12T08:35:00.000Z
+resolvedWhen: 2023-01-12T08:54:18.309Z
 affected:
   - Website
   - AyokaRadio
