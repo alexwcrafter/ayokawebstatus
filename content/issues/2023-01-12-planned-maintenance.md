@@ -19,7 +19,7 @@ affected:
   - Telegram Uno Bot
   - droid-ng Bot
   - Donowall Bot
-severity: notice
+severity: disrupted
 ---
 *Investigating* - With this e-mail we would like to inform you that your Server must be serviced at short notice. Our technicians will complete the work as soon as possible. Unfortunately, there was no way to announce the maintenance date earlier, for which we ask for your understanding. 
 
