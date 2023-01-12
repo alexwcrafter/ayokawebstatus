@@ -13,7 +13,7 @@ affected:
   - Pastebin
   - Jenkins
   - Netdata
-  - Mango (Manga Server[for a friend])
+  - Mango Manga Server
   - Image Upload
   - Shinbayo
   - Telegram Uno Bot
