@@ -10,7 +10,7 @@ resolvedWhen: 2022-12-17T15:11:17.533Z
 affected:
   - AyokaRadio
   - Pastebin
-  - Mango (Manga Server[for a friend])
+  - Mango Manga Server
   - Image Upload
   - Shinbayo
 severity: down
