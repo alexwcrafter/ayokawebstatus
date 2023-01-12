@@ -4,7 +4,7 @@ title: Scheduled Maintenance by Contabo
 date: 2022-12-05T02:00:03.106Z
 resolved: true
 draft: false
-informational: false
+informational: true
 pin: false
 resolvedWhen: 2022-12-05T04:00:03.256Z
 affected:
