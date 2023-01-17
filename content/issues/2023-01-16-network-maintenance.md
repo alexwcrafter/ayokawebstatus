@@ -21,9 +21,9 @@ affected:
   - Donowall Bot
 severity: down
 ---
+*Update* - A couple Services have been brought back online such as: Website, Manga, Netdata, Image Upload, Pastebin. Other services take more time to set back up. Thank you for your patience.
+
 *U﻿pdate* - There has been an Issue after the maintenance which broke the Server. Unfortunately, there's nothing I can do about that except to wait for the Support. I'm sorry for the inconvenience.
-
-
 
 *Investigating* - We would like to inform you that your Server needs to be serviced at short notice. Our technicians will complete the work as soon as possible. Unfortunately, there was no way to announce the maintenance date earlier, for which we ask for your understanding.\
 \
