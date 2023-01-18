@@ -2,11 +2,11 @@
 section: issue
 title: Network Maintenance
 date: 2023-01-16T08:00:32.815Z
-resolved: false
+resolved: true
 draft: false
 informational: true
-pin: true
-resolvedWhen: 2023-01-16T08:40:32.832Z
+pin: false
+resolvedWhen: 2023-01-18T20:39:50.022Z
 affected:
   - Website
   - AyokaRadio
@@ -21,6 +21,9 @@ affected:
   - Donowall Bot
 severity: down
 ---
+\
+*Update* - Most services are back online! Thank you for your patience
+
 *Update* - A couple Services have been brought back online such as: Website, Manga, Netdata, Image Upload, Pastebin. Other services take more time to set back up. Thank you for your patience.
 
 *U﻿pdate* - There has been an Issue after the maintenance which broke the Server. Unfortunately, there's nothing I can do about that except to wait for the Support. I'm sorry for the inconvenience.
