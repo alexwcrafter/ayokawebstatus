@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: true
 pin: false
-resolvedWhen: 2022-11-11T09:45:59.458Z
+resolvedWhen: 2023-02-01T20:34:16.474Z
 affected:
   - Jenkins
 severity: down
