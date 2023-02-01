@@ -2,7 +2,7 @@
 section: issue
 title: Jenkins Offline
 date: 2022-11-11T09:45:59.427Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
@@ -11,6 +11,8 @@ affected:
   - Jenkins
 severity: down
 ---
+*U﻿pdate* - Jenkins is available again
+
 *Update* - The Jenkins Server has not been downloaded yet and has to be reconfigured as well
 
 \
