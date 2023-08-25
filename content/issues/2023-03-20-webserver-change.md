@@ -2,10 +2,10 @@
 section: issue
 title: Webserver Change
 date: 2023-03-20T07:34:10.784Z
-resolved: false
+resolved: true
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2023-03-20T07:34:10.802Z
 affected:
   - Website
